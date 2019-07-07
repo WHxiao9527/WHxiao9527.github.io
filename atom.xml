@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-07-07T13:02:08.850Z</updated>
+  <updated>2019-07-07T13:04:55.398Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test3_picture</title>
+    <link href="http://yoursite.com/2019/07/08/test3-picture/"/>
+    <id>http://yoursite.com/2019/07/08/test3-picture/</id>
+    <published>2019-07-07T21:04:55.000Z</published>
+    <updated>2019-07-07T13:04:55.398Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>test2 博客</title>
     <link href="http://yoursite.com/2019/07/08/test2-%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2019/07/08/test2-博客/</id>
     <published>2019-07-07T17:54:09.000Z</published>
-    <updated>2019-07-07T13:02:08.850Z</updated>
+    <updated>2019-07-07T13:03:53.505Z</updated>
     
     <content type="html"><![CDATA[<h1 id="二叔无敌"><a href="#二叔无敌" class="headerlink" title="二叔无敌"></a>二叔无敌</h1>]]></content>
     
